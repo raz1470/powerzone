@@ -1,1 +1,2 @@
 #requirements
+matplotlib==3.4.2
